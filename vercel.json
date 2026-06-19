@@ -9,9 +9,5 @@
       "src": "/api/webhook",
       "dest": "/api/webhook"
     }
-  ],
-  "env": {
-    "BOT_TOKEN": "8994349885:AAHHDvskvoL6-pdYxJmmq9UsI-FWTN-zYMU",
-    "ADMIN_CHAT_ID": "8103797792"
-  }
+  ]
 }
